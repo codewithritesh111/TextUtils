@@ -42,7 +42,7 @@ export default function TextForm(probes) {
         </div>
         <div className="container my-3">
           <h1>You Text Summary</h1>
-          <p>Total words are {find(text)} and total words are {text.length}</p>
+          <p>Total words are {find(text)} and total Alphabet are {text.length}</p>
         </div>
     </div>
   )
